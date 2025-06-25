@@ -73,6 +73,3 @@ The cache is stored in a JSON file (`cache_store.json`) with the following struc
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-[MIT License](LICENSE)
