@@ -14,7 +14,7 @@ def is_cache_expired(timestamp_str):
         day=datetime.now().day
     )
     current_time = datetime.now()
-    expiration_time = timedelta(minutes=1)
+    expiration_time = timedelta(hours=12)
     return current_time - cache_time > expiration_time
 
 

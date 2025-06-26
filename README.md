@@ -1,6 +1,6 @@
 # CLI Caching Proxy
 
-A command-line interface (CLI) tool that implements a simple caching system for storing and retrieving words associated with URLs. The cache includes automatic expiration and cleanup features. (Remember i made this just to understand the whole concept of caching).
+A command-line interface (CLI) tool that implements a simple caching system for storing and retrieving words associated with URLs. The cache includes automatic expiration and cleanup features. ***(Remember i made this just to understand the whole concept of caching).***
 
 ## Features
 
